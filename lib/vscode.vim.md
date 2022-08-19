@@ -1,4 +1,4 @@
-##Splits
+## Splits
 
 to open file in a horizontal split `:sp` or `<CTRL-W> S
 
